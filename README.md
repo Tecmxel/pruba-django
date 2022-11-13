@@ -1,0 +1,2 @@
+# pruba-django
+practica django 
